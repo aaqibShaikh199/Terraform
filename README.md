@@ -1,2 +1,3 @@
-# Terraform
-This is ia Terraform repository where you can get the all Terraform related code 
+# 🌍 Terraform Scripts Collection
+
+Welcome to my Terraform repository! This project contains a collection of reusable and production-ready Terraform scripts for provisioning and managing infrastructure on various cloud providers (primarily AWS).
