@@ -1,0 +1,5 @@
+region         = "ap-south-1"
+access_key     = "<YOUR-ACCESS-KEY-HERE>"
+secret_key     = "<YOUR-SECRET-KEY-HERE>"
+ami            = "ami-0900588ae829985de"
+instance_type  = "t3.micro"
